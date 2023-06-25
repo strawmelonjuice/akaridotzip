@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-<img height="256" width="256" src="akaLogo.png"/>
+<img src="akaLogo.png" style="display: block; margin-left: auto;  max-width: 50VW;margin-right: auto;">
 </div>
 
 <h1 align="center">Hi there! 👋</h1><br>
